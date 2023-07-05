@@ -1,4 +1,4 @@
-# AIVANA
+# AIVANA Parent Company
 
 Welcome to the AIVANA parent company repository! AIVANA is a technology company that serves as the parent organization for several capstone projects. This repository contains the main website for AIVANA, built using React.js. The website provides an overview of AIVANA and its various projects.
 
