@@ -1,4 +1,4 @@
-# project update soon
+
 
 <p align="center"><img width="180" src="https://aivanaart.vercel.app/assets/logo-76f396b8.png" alt="AIVANA"></p>
 
