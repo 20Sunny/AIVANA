@@ -61,4 +61,4 @@ We welcome contributions from the community to enhance our projects. If you'd li
 
 ## License
 
-The AIVANA parent company and its associated projects are open-source and available under the [BSL-1.0 license](https://opensource.org/licenses/MIT). Feel free to modify and distribute the code as needed. Refer to the individual project repositories for specific licensing information.
+The AIVANA parent company and its associated projects are open-source and available under the [BSL-1.0 license](./LICENSES). Feel free to modify and distribute the code as needed. Refer to the individual project repositories for specific licensing information.
