@@ -14,7 +14,6 @@ Welcome to the AIVANA parent company repository! AIVANA is a technology company 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-  
 
 ## About AIVANA
 
