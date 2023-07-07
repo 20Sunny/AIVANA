@@ -37,7 +37,7 @@ Repository: [AIVANART](https://github.com/AIVANA/AIVANART)
 
 AIVOT is an AI chatbot built using React.js, Express.js, and Node.js. It integrates with the OpenAI API to provide intelligent responses and engage in meaningful conversations with users. AIVOT can be customized and trained to handle specific tasks and provide assistance in various domains.
 
-Repository: [AIVOT](https://github.com/AIVANA/AIVOT)
+Repository: [AIVOT](https://github.com/)
 
 ## Installation
 
