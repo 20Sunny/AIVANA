@@ -1,5 +1,6 @@
 <p align="center"><img width="180" src="https://aivart.vercel.app/assets/logo-76f396b8.png" alt="AIVANA">
-  <h1 align="center">Comming Soon</h1><h6 align='center'>I have not active api that why it not working on live site</h6></p> 
+  <h1 align="center">Comming Soon</h1>
+  <h6 align='center'>I have not active api that why it not working on live site</h6></p> 
 
 Welcome to the AIVANA parent company repository! AIVANA is a technology company that serves as the parent organization for several capstone projects. This repository contains the main website for AIVANA, built using React.js. The website provides an overview of AIVANA and its various projects.
 
