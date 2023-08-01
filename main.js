@@ -2,13 +2,20 @@ const coords = { x: 0, y: 0 };
 const circles = document.querySelectorAll(".circle");
 
 const colors = [
-  "#9400D3",
-  "#4B0082",
-  "#0000FF",
-  "#00FF00",
-  "#FFFF00",
+  // "#9400D3",
+  // "#4B0082",
+  // "#0000FF",
+  // "#00FF00",
+  // "#FFFF00",
+  // "#FF7F00",
+  // "#FF0000"
+  "#ff0000",
   "#FF7F00",
-  "#FF0000"
+  "#FFFF00",
+  "#00FF00",
+  "#0000FF",
+  "#4B0082",
+  "#9400D3"
 ];
 
 circles.forEach(function (circle, index) {
