@@ -1,4 +1,4 @@
-<p align="center">         
+<p align="center">        
   <img width="180" src="https://aivart.vercel.app/assets/logo-76f396b8.png" alt="AIVANA">
   <h1 align="center">Comming Soon</h1>
   <h6 align='center'>I have not active api that why it not working on live site</h6>
